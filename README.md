@@ -1,4 +1,4 @@
-Make data driven decision 
-Generate report about this project 
-Dashboard creation
-using charts as clustered bar charts, line(are)charts and waterfall chart ,Maps, graphs.
+1. Make data driven decision 
+2. Generate report about this project 
+3. Dashboard creation
+4. using charts as clustered bar charts, line(area)charts and waterfall chart ,Maps, graphs.
